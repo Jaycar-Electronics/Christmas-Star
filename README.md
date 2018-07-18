@@ -22,9 +22,6 @@ _Project 00010_
 ### Connection Diagram.
 ![](images/DIY-Christmas-Star.png)
 
-## Downloads
-* [Source code](downloads/DIY-Christmas-Star.zip)
-
 ## Software Libraries
 |Library | Author
 | --- |
