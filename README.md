@@ -20,7 +20,7 @@ _Project 00010_
 |D4 | CLK |
 
 ### Connection Diagram.
-![](../images/DIY-Christmas-Star.png)
+![](images/DIY-Christmas-Star.png)
 
 ## Downloads
 * [Source code](downloads/DIY-Christmas-Star.zip)
@@ -32,11 +32,11 @@ _Project 00010_
 ## Assembly
 Simply make the connections as shown in the connection table.
 
-![](../images/NPI00010b.jpg)
+![](images/NPI00010b.jpg)
 
  If more starts are wanted, connect the (OUT) side of the first star, to the (IN) side of the other.
 
-![](../images/NPI00010a.jpg)
+![](images/NPI00010a.jpg)
 
 ## Programming
 Download the source code and extract into a new folder, open the .ino file in the Arduino IDE and press upload.
@@ -46,7 +46,7 @@ If you want to change the star pattern, use the supplied excel sheet to generate
 
 Turn it on and enjoy!
 
-[![youtube link](../images/NPI00010yt.png)](https://www.youtube.com/watch?v=OkFDdXHDi_o)
+[![youtube link](images/NPI00010yt.png)](https://www.youtube.com/watch?v=OkFDdXHDi_o)
 
 ## Future Improvements
 
